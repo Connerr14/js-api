@@ -1,0 +1,22 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "1234 Ice Cream Lane, Ice Cream City, IC 12345", 
+    "established": 2010,
+    "active": true,
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 150,
+            "type": "Regular",
+            "ingredients": ["Milk", "Sugar", "Vanilla Extract"],
+            "image": ""
+        },
+        {
+            "name": "peach mango",
+            "calories": 200,
+            "type": "Regular",
+            "ingredients": ["Milk", "Sugar", "Vanilla Extract", "Peach", "Mango"],
+            "image": ""
+        }
+    ]
+}
