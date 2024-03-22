@@ -9,14 +9,14 @@
             "calories": 150,
             "type": "Regular",
             "ingredients": ["Milk", "Sugar", "Vanilla Extract"],
-            "image": ""
+            "image": "https://connerr14.github.io/js-api/images/chocolate-mint.svg"
         },
         {
             "name": "peach mango",
             "calories": 200,
             "type": "Regular",
             "ingredients": ["Milk", "Sugar", "Vanilla Extract", "Peach", "Mango"],
-            "image": ""
+            "image": "https://connerr14.github.io/js-api/images/peach-mango.svg"
         }
     ]
 }
