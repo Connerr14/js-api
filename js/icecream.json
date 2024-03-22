@@ -17,6 +17,14 @@
             "type": "Regular",
             "ingredients": ["Milk", "Sugar", "Vanilla Extract", "Peach", "Mango"],
             "image": "https://connerr14.github.io/js-api/images/peach-mango.svg"
+        }, 
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 300,
+            "type": "Milkshake",
+            "ingredients": ["Milk", "Sugar", "Vanilla Extract", "Strawberry", "Sprinkles"],
+            "image": "https://connerr14.github.io/js-api/images/strawberry-sprinkle.svg"
         }
+
     ]
 }
